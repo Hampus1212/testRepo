@@ -50,6 +50,7 @@ public class DatagramSender {
                 socket.send(packet);
                 System.out.println(message);
                 Thread.sleep(3000);
+                //hej
             }
             
         }
